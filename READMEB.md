@@ -32,12 +32,12 @@
         "img": "https://i.loli.net/2019/08/27/9P21iolS5mReUvq.png"
         },
         {
-        "url": "https://down.mtu46.com/gamecenter-release-android-cijian-5948-7ac0c89883dca4a47edb03d5fc79a093.apk",
-        "img": "http://45.76.50.18/qp_banner_cps.jpg"
+        "url": "https://i.loli.net/2019/08/27/9P21iolS5mReUvq.png",
+        "img": "https://i.loli.net/2019/08/27/9P21iolS5mReUvq.png"
         },
 	    {
-        "url": "https://downs.515tjdr.com/apk12/2120186_ztnB1Uvj9H7z3N1f.apk",
-        "img": "http://45.76.50.18/kule_banner.jpg"
+        "url": "https://i.loli.net/2019/08/27/9P21iolS5mReUvq.png",
+        "img": "https://i.loli.net/2019/08/27/9P21iolS5mReUvq.png"
         }],
     "launchAd": {
         "url": "https://mob166.fyxzhubao.com/0ad89a0417c59eb470a61135054b4f52",
@@ -45,7 +45,7 @@
 	    "h5":"https://mob166.fyxzhubao.com/0ad89a0417c59eb470a61135054b4f52"
         },
     "extraChannel":[
-        {"name":"知否娱乐","type":100,"iconUrl":"https://i.loli.net/2019/08/27/9P21iolS5mReUvq.png","url":"https://down.daguocun.com/gamecenter-release-android-zhifou-5310-0ad89a0417c59eb470a61135054b4f52.apk","channelString":"MD_103"},
+        {"name":"知否娱乐","type":100,"iconUrl":"https://i.loli.net/2019/08/27/9P21iolS5mReUvq.png","url":"https://i.loli.net/2019/08/27/9P21iolS5mReUvq.png","channelString":"MD_103"},
         {"name":"此间棋牌","type":100,"iconUrl":"http://45.76.50.18/qp_icon_cps.png","url":"https://down.mtu46.com/gamecenter-release-android-cijian-5948-7ac0c89883dca4a47edb03d5fc79a093.apk","channelString":"MD_104"},
         {"name":"酷乐电玩","type":100,"iconUrl":"http://45.76.50.18/kule_logo.png","url":"https://downs.515tjdr.com/apk12/2120186_ztnB1Uvj9H7z3N1f.apk","channelString":"MD_105"}
         ],
