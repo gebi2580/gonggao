@@ -29,7 +29,7 @@
     "ads": [
         {
         "url": "https://mob166.fyxzhubao.com/0ad89a0417c59eb470a61135054b4f52",
-        "img": "http://45.76.50.18/zhifou_banner.jpg"
+        "img": "https://i.loli.net/2019/08/27/9P21iolS5mReUvq.png"
         },
         {
         "url": "https://down.mtu46.com/gamecenter-release-android-cijian-5948-7ac0c89883dca4a47edb03d5fc79a093.apk",
